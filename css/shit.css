@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.shit1 {
+  background-color: skyblue;
+  display: block;
+  text-align: center;
+  font-style: oblique;
+
+}
+
+.column {
+  float: left;
+  font-size: 20px;
+  width: 50%;
+}
+
+.row {
+  display: flex;
+}
